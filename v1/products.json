@@ -1,7 +1,7 @@
 {
   "sort": "-date",
   "links": {
-    "next": "https://api.maedchenflohmarkt.de/v1/page1.json"
+    "next": "https://prelved.app/v1/page1.json"
   },
   "parameters": {
     "sorting": "-date"
@@ -20,13 +20,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3806090/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3806090/comments",
+        "like": "https://prelved.app/v1/products/3806090/like",
+        "thread": "https://prelved.app/v1/threads/3806090/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/michael-kors/3806090.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3806090/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3806090.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3806090/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3806090/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3806090/comments/preview",
+        "base": "https://prelved.app/v1/products/3806090.json",
+        "report": "https://prelved.app/v1/products/3806090/report",
+        "similar": "https://prelved.app/v1/products/3806090/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -53,7 +53,7 @@
       "category": {
         "categoryId": 486,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=486"
+          "products": "https://prelved.app/v1/products?category=486"
         },
         "name": "Uhren"
       },
@@ -65,8 +65,8 @@
         "topBrand": true,
         "name": "Michael Kors",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/237/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=237"
+          "followers": "https://prelved.app/v1/brands/237/followers",
+          "products": "https://prelved.app/v1/products?brand=237"
         },
         "brandId": 237
       },
@@ -101,13 +101,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3806088/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3806088/comments",
+        "like": "https://prelved.app/v1/products/3806088/like",
+        "thread": "https://prelved.app/v1/threads/3806088/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/tunika-bluse-h-m/3806088.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3806088/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3806088.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3806088/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3806088/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3806088/comments/preview",
+        "base": "https://prelved.app/v1/products/3806088.json",
+        "report": "https://prelved.app/v1/products/3806088/report",
+        "similar": "https://prelved.app/v1/products/3806088/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -156,7 +156,7 @@
       "category": {
         "categoryId": 213,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=213"
+          "products": "https://prelved.app/v1/products?category=213"
         },
         "name": "Blusen"
       },
@@ -168,8 +168,8 @@
         "topBrand": true,
         "name": "H&M",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/9/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=9"
+          "followers": "https://prelved.app/v1/brands/9/followers",
+          "products": "https://prelved.app/v1/products?brand=9"
         },
         "brandId": 9
       },
@@ -204,13 +204,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3806086/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3806086/comments",
+        "like": "https://prelved.app/v1/products/3806086/like",
+        "thread": "https://prelved.app/v1/threads/3806086/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/gap-kurzjacke-beige-casual-look/3806086.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3806086/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3806086.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3806086/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3806086/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3806086/comments/preview",
+        "base": "https://prelved.app/v1/products/3806086.json",
+        "report": "https://prelved.app/v1/products/3806086/report",
+        "similar": "https://prelved.app/v1/products/3806086/similar"
       },
       "originalInvoice": false,
       "concierge": true,
@@ -243,7 +243,7 @@
       "category": {
         "categoryId": 105,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=105"
+          "products": "https://prelved.app/v1/products?category=105"
         },
         "name": "Kurzjacken"
       },
@@ -291,8 +291,8 @@
         "topBrand": false,
         "name": "Gap",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/549/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=549"
+          "followers": "https://prelved.app/v1/brands/549/followers",
+          "products": "https://prelved.app/v1/products?brand=549"
         },
         "brandId": 549
       },
@@ -331,13 +331,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3806084/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3806084/comments",
+        "like": "https://prelved.app/v1/products/3806084/like",
+        "thread": "https://prelved.app/v1/threads/3806084/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/tunika-tunikakleid-sommerkleid-strandkleid-gr-m/3806084.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3806084/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3806084.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3806084/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3806084/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3806084/comments/preview",
+        "base": "https://prelved.app/v1/products/3806084.json",
+        "report": "https://prelved.app/v1/products/3806084/report",
+        "similar": "https://prelved.app/v1/products/3806084/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -388,7 +388,7 @@
       "category": {
         "categoryId": 528,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=528"
+          "products": "https://prelved.app/v1/products?category=528"
         },
         "name": "Strandkleider"
       },
@@ -425,13 +425,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3806082/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3806082/comments",
+        "like": "https://prelved.app/v1/products/3806082/like",
+        "thread": "https://prelved.app/v1/threads/3806082/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/pinke-plateau-pumps-mit-keilabsatz-groesse-39/3806082.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3806082/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3806082.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3806082/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3806082/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3806082/comments/preview",
+        "base": "https://prelved.app/v1/products/3806082.json",
+        "report": "https://prelved.app/v1/products/3806082/report",
+        "similar": "https://prelved.app/v1/products/3806082/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -481,7 +481,7 @@
       "category": {
         "categoryId": 675,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=675"
+          "products": "https://prelved.app/v1/products?category=675"
         },
         "name": "Keil-Pumps"
       },
@@ -493,8 +493,8 @@
         "topBrand": false,
         "name": "JustFab",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/2296/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=2296"
+          "followers": "https://prelved.app/v1/brands/2296/followers",
+          "products": "https://prelved.app/v1/products?brand=2296"
         },
         "brandId": 2296
       },
@@ -527,7 +527,7 @@
       "category": {
         "categoryId": 431,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=431"
+          "products": "https://prelved.app/v1/products?category=431"
         },
         "name": "Pumps"
       },
@@ -537,13 +537,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3789838/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3789838/comments",
+        "like": "https://prelved.app/v1/products/3789838/like",
+        "thread": "https://prelved.app/v1/threads/3789838/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/pumps-kitten-heels-streifen-nie-getragen/3789838.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3789838/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3789838.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3789838/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3789838/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3789838/comments/preview",
+        "base": "https://prelved.app/v1/products/3789838.json",
+        "report": "https://prelved.app/v1/products/3789838/report",
+        "similar": "https://prelved.app/v1/products/3789838/similar"
       },
       "productVariationId": 3789900,
       "price": 7,
@@ -625,13 +625,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3769688/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3769688/comments",
+        "like": "https://prelved.app/v1/products/3769688/like",
+        "thread": "https://prelved.app/v1/threads/3769688/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/love-moschino/3769688.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3769688/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3769688.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3769688/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3769688/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3769688/comments/preview",
+        "base": "https://prelved.app/v1/products/3769688.json",
+        "report": "https://prelved.app/v1/products/3769688/report",
+        "similar": "https://prelved.app/v1/products/3769688/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -676,7 +676,7 @@
       "category": {
         "categoryId": 356,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=356"
+          "products": "https://prelved.app/v1/products?category=356"
         },
         "name": "Umh\u00e4ngetaschen"
       },
@@ -688,8 +688,8 @@
         "topBrand": false,
         "name": "Love Moschino",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/3912/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=3912"
+          "followers": "https://prelved.app/v1/brands/3912/followers",
+          "products": "https://prelved.app/v1/products?brand=3912"
         },
         "brandId": 3912
       },
@@ -728,13 +728,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3496458/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3496458/comments",
+        "like": "https://prelved.app/v1/products/3496458/like",
+        "thread": "https://prelved.app/v1/threads/3496458/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/sportalm-wendeweste-dunkelbraun-casual-look/3496458.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3496458/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3496458.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3496458/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3496458/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3496458/comments/preview",
+        "base": "https://prelved.app/v1/products/3496458.json",
+        "report": "https://prelved.app/v1/products/3496458/report",
+        "similar": "https://prelved.app/v1/products/3496458/similar"
       },
       "originalInvoice": false,
       "concierge": true,
@@ -767,7 +767,7 @@
       "category": {
         "categoryId": 245,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=245"
+          "products": "https://prelved.app/v1/products?category=245"
         },
         "name": "Wendewesten"
       },
@@ -815,8 +815,8 @@
         "topBrand": false,
         "name": "Sportalm",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/2448/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=2448"
+          "followers": "https://prelved.app/v1/brands/2448/followers",
+          "products": "https://prelved.app/v1/products?brand=2448"
         },
         "brandId": 2448
       },
@@ -849,7 +849,7 @@
       "category": {
         "categoryId": 32,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=32"
+          "products": "https://prelved.app/v1/products?category=32"
         },
         "name": "Kleider"
       },
@@ -859,13 +859,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3806080/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3806080/comments",
+        "like": "https://prelved.app/v1/products/3806080/like",
+        "thread": "https://prelved.app/v1/threads/3806080/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/sommerkleid-schwarz/3806080.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3806080/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3806080.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3806080/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3806080/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3806080/comments/preview",
+        "base": "https://prelved.app/v1/products/3806080.json",
+        "report": "https://prelved.app/v1/products/3806080/report",
+        "similar": "https://prelved.app/v1/products/3806080/similar"
       },
       "productVariationId": 3806142,
       "price": 11,
@@ -936,13 +936,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3806078/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3806078/comments",
+        "like": "https://prelved.app/v1/products/3806078/like",
+        "thread": "https://prelved.app/v1/threads/3806078/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/bluse-tunika-h-m-altrosa/3806078.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3806078/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3806078.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3806078/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3806078/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3806078/comments/preview",
+        "base": "https://prelved.app/v1/products/3806078.json",
+        "report": "https://prelved.app/v1/products/3806078/report",
+        "similar": "https://prelved.app/v1/products/3806078/similar"
       },
       "originalInvoice": true,
       "concierge": false,
@@ -992,7 +992,7 @@
       "category": {
         "categoryId": 213,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=213"
+          "products": "https://prelved.app/v1/products?category=213"
         },
         "name": "Blusen"
       },
@@ -1005,8 +1005,8 @@
         "topBrand": true,
         "name": "H&M",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/9/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=9"
+          "followers": "https://prelved.app/v1/brands/9/followers",
+          "products": "https://prelved.app/v1/products?brand=9"
         },
         "brandId": 9
       },
@@ -1041,13 +1041,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3723514/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3723514/comments",
+        "like": "https://prelved.app/v1/products/3723514/like",
+        "thread": "https://prelved.app/v1/threads/3723514/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/paul-green-schnuer-stiefeletten-hellbraun-street-fashion-look/3723514.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3723514/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3723514.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3723514/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3723514/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3723514/comments/preview",
+        "base": "https://prelved.app/v1/products/3723514.json",
+        "report": "https://prelved.app/v1/products/3723514/report",
+        "similar": "https://prelved.app/v1/products/3723514/similar"
       },
       "originalInvoice": false,
       "concierge": true,
@@ -1092,7 +1092,7 @@
       "category": {
         "categoryId": 426,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=426"
+          "products": "https://prelved.app/v1/products?category=426"
         },
         "name": "Schn\u00fcr-Stiefeletten"
       },
@@ -1141,8 +1141,8 @@
         "topBrand": true,
         "name": "Paul Green",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/383/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=383"
+          "followers": "https://prelved.app/v1/brands/383/followers",
+          "products": "https://prelved.app/v1/products?brand=383"
         },
         "brandId": 383
       },
@@ -1181,13 +1181,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3125032/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3125032/comments",
+        "like": "https://prelved.app/v1/products/3125032/like",
+        "thread": "https://prelved.app/v1/threads/3125032/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/judith-williams-designerring-925er-sterlingsilber-onyx-schwarz-ovp/3125032.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3125032/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3125032.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3125032/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3125032/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3125032/comments/preview",
+        "base": "https://prelved.app/v1/products/3125032.json",
+        "report": "https://prelved.app/v1/products/3125032/report",
+        "similar": "https://prelved.app/v1/products/3125032/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -1226,7 +1226,7 @@
       "category": {
         "categoryId": 403,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=403"
+          "products": "https://prelved.app/v1/products?category=403"
         },
         "name": "Silberringe"
       },
@@ -1238,8 +1238,8 @@
         "topBrand": false,
         "name": "Judith Williams",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/4786/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=4786"
+          "followers": "https://prelved.app/v1/brands/4786/followers",
+          "products": "https://prelved.app/v1/products?brand=4786"
         },
         "brandId": 4786
       },
@@ -1278,13 +1278,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3723492/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3723492/comments",
+        "like": "https://prelved.app/v1/products/3723492/like",
+        "thread": "https://prelved.app/v1/threads/3723492/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/rachel-zoe-slipper-beige-street-fashion-look/3723492.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3723492/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3723492.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3723492/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3723492/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3723492/comments/preview",
+        "base": "https://prelved.app/v1/products/3723492.json",
+        "report": "https://prelved.app/v1/products/3723492/report",
+        "similar": "https://prelved.app/v1/products/3723492/similar"
       },
       "originalInvoice": false,
       "concierge": true,
@@ -1329,7 +1329,7 @@
       "category": {
         "categoryId": 450,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=450"
+          "products": "https://prelved.app/v1/products?category=450"
         },
         "name": "Slipper"
       },
@@ -1377,8 +1377,8 @@
         "topBrand": false,
         "name": "Rachel zoe",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/1101/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=1101"
+          "followers": "https://prelved.app/v1/brands/1101/followers",
+          "products": "https://prelved.app/v1/products?brand=1101"
         },
         "brandId": 1101
       },
@@ -1417,13 +1417,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3472977/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3472977/comments",
+        "like": "https://prelved.app/v1/products/3472977/like",
+        "thread": "https://prelved.app/v1/threads/3472977/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/parka/3472977.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3472977/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3472977.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3472977/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3472977/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3472977/comments/preview",
+        "base": "https://prelved.app/v1/products/3472977.json",
+        "report": "https://prelved.app/v1/products/3472977/report",
+        "similar": "https://prelved.app/v1/products/3472977/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -1462,7 +1462,7 @@
       "category": {
         "categoryId": 111,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=111"
+          "products": "https://prelved.app/v1/products?category=111"
         },
         "name": "Parkas"
       },
@@ -1499,13 +1499,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3472955/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3472955/comments",
+        "like": "https://prelved.app/v1/products/3472955/like",
+        "thread": "https://prelved.app/v1/threads/3472955/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/schwarz-buntes-kleid/3472955.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3472955/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3472955.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3472955/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3472955/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3472955/comments/preview",
+        "base": "https://prelved.app/v1/products/3472955.json",
+        "report": "https://prelved.app/v1/products/3472955/report",
+        "similar": "https://prelved.app/v1/products/3472955/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -1544,7 +1544,7 @@
       "category": {
         "categoryId": 528,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=528"
+          "products": "https://prelved.app/v1/products?category=528"
         },
         "name": "Strandkleider"
       },
@@ -1581,13 +1581,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3562556/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3562556/comments",
+        "like": "https://prelved.app/v1/products/3562556/like",
+        "thread": "https://prelved.app/v1/threads/3562556/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/traumhafte-zara-women-jacke-beige-gr-l/3562556.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3562556/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3562556.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3562556/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3562556/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3562556/comments/preview",
+        "base": "https://prelved.app/v1/products/3562556.json",
+        "report": "https://prelved.app/v1/products/3562556/report",
+        "similar": "https://prelved.app/v1/products/3562556/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -1638,7 +1638,7 @@
       "category": {
         "categoryId": 91,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=91"
+          "products": "https://prelved.app/v1/products?category=91"
         },
         "name": "Bikerjacken"
       },
@@ -1650,8 +1650,8 @@
         "topBrand": true,
         "name": "Zara",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/5/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=5"
+          "followers": "https://prelved.app/v1/brands/5/followers",
+          "products": "https://prelved.app/v1/products?brand=5"
         },
         "brandId": 5
       },

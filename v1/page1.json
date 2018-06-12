@@ -20,13 +20,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3342065/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3342065/comments",
+        "like": "https://prelved.app/v1/products/3342065/like",
+        "thread": "https://prelved.app/v1/threads/3342065/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/ankle-boots-aus-wildleder-in-einem-schoenen-braun-39/3342065.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3342065/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3342065.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3342065/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3342065/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3342065/comments/preview",
+        "base": "https://prelved.app/v1/products/3342065.json",
+        "report": "https://prelved.app/v1/products/3342065/report",
+        "similar": "https://prelved.app/v1/products/3342065/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -58,7 +58,7 @@
       "category": {
         "categoryId": 668,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=668"
+          "products": "https://prelved.app/v1/products?category=668"
         },
         "name": "Rei\u00dfverschluss-Stiefeletten"
       },
@@ -71,8 +71,8 @@
         "topBrand": false,
         "name": "Sommerkind",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/3190/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=3190"
+          "followers": "https://prelved.app/v1/brands/3190/followers",
+          "products": "https://prelved.app/v1/products?brand=3190"
         },
         "brandId": 3190
       },
@@ -107,13 +107,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3793520/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3793520/comments",
+        "like": "https://prelved.app/v1/products/3793520/like",
+        "thread": "https://prelved.app/v1/threads/3793520/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/cardigan-schwarz/3793520.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3793520/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3793520.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3793520/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3793520/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3793520/comments/preview",
+        "base": "https://prelved.app/v1/products/3793520.json",
+        "report": "https://prelved.app/v1/products/3793520/report",
+        "similar": "https://prelved.app/v1/products/3793520/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -140,7 +140,7 @@
       "category": {
         "categoryId": 540,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=540"
+          "products": "https://prelved.app/v1/products?category=540"
         },
         "name": "Cardigans"
       },
@@ -152,8 +152,8 @@
         "topBrand": true,
         "name": "H&M",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/9/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=9"
+          "followers": "https://prelved.app/v1/brands/9/followers",
+          "products": "https://prelved.app/v1/products?brand=9"
         },
         "brandId": 9
       },
@@ -192,13 +192,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3794122/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3794122/comments",
+        "like": "https://prelved.app/v1/products/3794122/like",
+        "thread": "https://prelved.app/v1/threads/3794122/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/top-skulls/3794122.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3794122/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3794122.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3794122/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3794122/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3794122/comments/preview",
+        "base": "https://prelved.app/v1/products/3794122.json",
+        "report": "https://prelved.app/v1/products/3794122/report",
+        "similar": "https://prelved.app/v1/products/3794122/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -230,7 +230,7 @@
       "category": {
         "categoryId": 587,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=587"
+          "products": "https://prelved.app/v1/products?category=587"
         },
         "name": "schulterfreie Tops"
       },
@@ -242,8 +242,8 @@
         "topBrand": true,
         "name": "H&M",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/9/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=9"
+          "followers": "https://prelved.app/v1/brands/9/followers",
+          "products": "https://prelved.app/v1/products?brand=9"
         },
         "brandId": 9
       },
@@ -278,13 +278,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3487912/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3487912/comments",
+        "like": "https://prelved.app/v1/products/3487912/like",
+        "thread": "https://prelved.app/v1/threads/3487912/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/forever21-langer-sommerblazer-satincardigan-gr-s-26-neu/3487912.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3487912/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3487912.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3487912/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3487912/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3487912/comments/preview",
+        "base": "https://prelved.app/v1/products/3487912.json",
+        "report": "https://prelved.app/v1/products/3487912/report",
+        "similar": "https://prelved.app/v1/products/3487912/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -329,7 +329,7 @@
       "category": {
         "categoryId": 195,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=195"
+          "products": "https://prelved.app/v1/products?category=195"
         },
         "name": "Long-Blazer"
       },
@@ -342,8 +342,8 @@
         "topBrand": true,
         "name": "Forever 21",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/70/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=70"
+          "followers": "https://prelved.app/v1/brands/70/followers",
+          "products": "https://prelved.app/v1/products?brand=70"
         },
         "brandId": 70
       },
@@ -378,13 +378,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3806076/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3806076/comments",
+        "like": "https://prelved.app/v1/products/3806076/like",
+        "thread": "https://prelved.app/v1/threads/3806076/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/sexy-kleid-mit-seitlichem-schlitz-rot-neu/3806076.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3806076/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3806076.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3806076/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3806076/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3806076/comments/preview",
+        "base": "https://prelved.app/v1/products/3806076.json",
+        "report": "https://prelved.app/v1/products/3806076/report",
+        "similar": "https://prelved.app/v1/products/3806076/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -434,7 +434,7 @@
       "category": {
         "categoryId": 32,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=32"
+          "products": "https://prelved.app/v1/products?category=32"
         },
         "name": "Kleider"
       },
@@ -471,13 +471,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3715992/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3715992/comments",
+        "like": "https://prelved.app/v1/products/3715992/like",
+        "thread": "https://prelved.app/v1/threads/3715992/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/miu-miu-umhaengetasche/3715992.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3715992/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3715992.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3715992/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3715992/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3715992/comments/preview",
+        "base": "https://prelved.app/v1/products/3715992.json",
+        "report": "https://prelved.app/v1/products/3715992/report",
+        "similar": "https://prelved.app/v1/products/3715992/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -528,7 +528,7 @@
       "category": {
         "categoryId": 347,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=347"
+          "products": "https://prelved.app/v1/products?category=347"
         },
         "name": "Handtaschen"
       },
@@ -541,8 +541,8 @@
         "topBrand": true,
         "name": "Miu Miu",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/141/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=141"
+          "followers": "https://prelved.app/v1/brands/141/followers",
+          "products": "https://prelved.app/v1/products?brand=141"
         },
         "brandId": 141
       },
@@ -577,13 +577,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3806074/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3806074/comments",
+        "like": "https://prelved.app/v1/products/3806074/like",
+        "thread": "https://prelved.app/v1/threads/3806074/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/kleid-grau/3806074.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3806074/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3806074.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3806074/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3806074/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3806074/comments/preview",
+        "base": "https://prelved.app/v1/products/3806074.json",
+        "report": "https://prelved.app/v1/products/3806074/report",
+        "similar": "https://prelved.app/v1/products/3806074/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -615,7 +615,7 @@
       "category": {
         "categoryId": 520,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=520"
+          "products": "https://prelved.app/v1/products?category=520"
         },
         "name": "Jerseykleider"
       },
@@ -627,8 +627,8 @@
         "topBrand": true,
         "name": "H&M",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/9/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=9"
+          "followers": "https://prelved.app/v1/brands/9/followers",
+          "products": "https://prelved.app/v1/products?brand=9"
         },
         "brandId": 9
       },
@@ -667,13 +667,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3401931/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3401931/comments",
+        "like": "https://prelved.app/v1/products/3401931/like",
+        "thread": "https://prelved.app/v1/threads/3401931/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/basler-vichycaro-kurzblazer-gr-40/3401931.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3401931/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3401931.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3401931/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3401931/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3401931/comments/preview",
+        "base": "https://prelved.app/v1/products/3401931.json",
+        "report": "https://prelved.app/v1/products/3401931/report",
+        "similar": "https://prelved.app/v1/products/3401931/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -729,7 +729,7 @@
       "category": {
         "categoryId": 193,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=193"
+          "products": "https://prelved.app/v1/products?category=193"
         },
         "name": "Kurz-Blazer"
       },
@@ -742,8 +742,8 @@
         "topBrand": false,
         "name": "Basler",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/2140/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=2140"
+          "followers": "https://prelved.app/v1/brands/2140/followers",
+          "products": "https://prelved.app/v1/products?brand=2140"
         },
         "brandId": 2140
       },
@@ -778,13 +778,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3434371/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3434371/comments",
+        "like": "https://prelved.app/v1/products/3434371/like",
+        "thread": "https://prelved.app/v1/threads/3434371/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/basler-leinen-blazer-magenta-gr-42/3434371.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3434371/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3434371.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3434371/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3434371/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3434371/comments/preview",
+        "base": "https://prelved.app/v1/products/3434371.json",
+        "report": "https://prelved.app/v1/products/3434371/report",
+        "similar": "https://prelved.app/v1/products/3434371/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -829,7 +829,7 @@
       "category": {
         "categoryId": 191,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=191"
+          "products": "https://prelved.app/v1/products?category=191"
         },
         "name": "Blazer"
       },
@@ -842,8 +842,8 @@
         "topBrand": false,
         "name": "Basler",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/2140/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=2140"
+          "followers": "https://prelved.app/v1/brands/2140/followers",
+          "products": "https://prelved.app/v1/products?brand=2140"
         },
         "brandId": 2140
       },
@@ -878,13 +878,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3806072/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3806072/comments",
+        "like": "https://prelved.app/v1/products/3806072/like",
+        "thread": "https://prelved.app/v1/threads/3806072/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/moderner-grauer-crop-pulli-weich-mit-weiten-aermeln/3806072.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3806072/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3806072.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3806072/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3806072/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3806072/comments/preview",
+        "base": "https://prelved.app/v1/products/3806072.json",
+        "report": "https://prelved.app/v1/products/3806072/report",
+        "similar": "https://prelved.app/v1/products/3806072/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -929,7 +929,7 @@
       "category": {
         "categoryId": 257,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=257"
+          "products": "https://prelved.app/v1/products?category=257"
         },
         "name": "Pullover"
       },
@@ -966,13 +966,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3806070/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3806070/comments",
+        "like": "https://prelved.app/v1/products/3806070/like",
+        "thread": "https://prelved.app/v1/threads/3806070/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/moderne-schwarze-mango-lederjacke/3806070.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3806070/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3806070.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3806070/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3806070/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3806070/comments/preview",
+        "base": "https://prelved.app/v1/products/3806070.json",
+        "report": "https://prelved.app/v1/products/3806070/report",
+        "similar": "https://prelved.app/v1/products/3806070/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -1005,7 +1005,7 @@
       "category": {
         "categoryId": 107,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=107"
+          "products": "https://prelved.app/v1/products?category=107"
         },
         "name": "Lederjacken"
       },
@@ -1018,8 +1018,8 @@
         "topBrand": true,
         "name": "Mango",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/18/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=18"
+          "followers": "https://prelved.app/v1/brands/18/followers",
+          "products": "https://prelved.app/v1/products?brand=18"
         },
         "brandId": 18
       },
@@ -1054,13 +1054,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3806068/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3806068/comments",
+        "like": "https://prelved.app/v1/products/3806068/like",
+        "thread": "https://prelved.app/v1/threads/3806068/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/four-flavour-kleid-rose-rosa-schwarz-gr-36-s-traegerkleid-gestreift-party-sexy/3806068.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3806068/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3806068.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3806068/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3806068/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3806068/comments/preview",
+        "base": "https://prelved.app/v1/products/3806068.json",
+        "report": "https://prelved.app/v1/products/3806068/report",
+        "similar": "https://prelved.app/v1/products/3806068/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -1110,7 +1110,7 @@
       "category": {
         "categoryId": 52,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=52"
+          "products": "https://prelved.app/v1/products?category=52"
         },
         "name": "Minikleider"
       },
@@ -1123,8 +1123,8 @@
         "topBrand": false,
         "name": "Four flavor",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/709/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=709"
+          "followers": "https://prelved.app/v1/brands/709/followers",
+          "products": "https://prelved.app/v1/products?brand=709"
         },
         "brandId": 709
       },
@@ -1159,13 +1159,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3806066/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3806066/comments",
+        "like": "https://prelved.app/v1/products/3806066/like",
+        "thread": "https://prelved.app/v1/threads/3806066/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/sissy-boy-shirt-gr-m-imagination-is-everything/3806066.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3806066/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3806066.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3806066/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3806066/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3806066/comments/preview",
+        "base": "https://prelved.app/v1/products/3806066.json",
+        "report": "https://prelved.app/v1/products/3806066/report",
+        "similar": "https://prelved.app/v1/products/3806066/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -1216,7 +1216,7 @@
       "category": {
         "categoryId": 535,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=535"
+          "products": "https://prelved.app/v1/products?category=535"
         },
         "name": "Print-Shirts"
       },
@@ -1229,8 +1229,8 @@
         "topBrand": false,
         "name": "Sissy - Boy",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/7152/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=7152"
+          "followers": "https://prelved.app/v1/brands/7152/followers",
+          "products": "https://prelved.app/v1/products?brand=7152"
         },
         "brandId": 7152
       },
@@ -1269,13 +1269,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3805980/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3805980/comments",
+        "like": "https://prelved.app/v1/products/3805980/like",
+        "thread": "https://prelved.app/v1/threads/3805980/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/cropped-shirt-tigha-schwarz-s/3805980.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3805980/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3805980.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3805980/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3805980/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3805980/comments/preview",
+        "base": "https://prelved.app/v1/products/3805980.json",
+        "report": "https://prelved.app/v1/products/3805980/report",
+        "similar": "https://prelved.app/v1/products/3805980/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -1320,7 +1320,7 @@
       "category": {
         "categoryId": 533,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=533"
+          "products": "https://prelved.app/v1/products?category=533"
         },
         "name": "Cropped Shirts"
       },
@@ -1332,8 +1332,8 @@
         "topBrand": false,
         "name": "Tigha",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/2894/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=2894"
+          "followers": "https://prelved.app/v1/brands/2894/followers",
+          "products": "https://prelved.app/v1/products?brand=2894"
         },
         "brandId": 2894
       },
@@ -1372,13 +1372,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3792416/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3792416/comments",
+        "like": "https://prelved.app/v1/products/3792416/like",
+        "thread": "https://prelved.app/v1/threads/3792416/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/kunstlederjacke/3792416.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3792416/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3792416.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3792416/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3792416/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3792416/comments/preview",
+        "base": "https://prelved.app/v1/products/3792416.json",
+        "report": "https://prelved.app/v1/products/3792416/report",
+        "similar": "https://prelved.app/v1/products/3792416/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -1405,7 +1405,7 @@
       "category": {
         "categoryId": 107,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=107"
+          "products": "https://prelved.app/v1/products?category=107"
         },
         "name": "Lederjacken"
       },
@@ -1417,8 +1417,8 @@
         "topBrand": false,
         "name": "C&A",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/105/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=105"
+          "followers": "https://prelved.app/v1/brands/105/followers",
+          "products": "https://prelved.app/v1/products?brand=105"
         },
         "brandId": 105
       },
@@ -1457,13 +1457,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3719976/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3719976/comments",
+        "like": "https://prelved.app/v1/products/3719976/like",
+        "thread": "https://prelved.app/v1/threads/3719976/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/letzter-preis-stratic-trolley-4-rollen-polycarbonate-plus-gr-m-sehr-guter-zustand/3719976.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3719976/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3719976.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3719976/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3719976/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3719976/comments/preview",
+        "base": "https://prelved.app/v1/products/3719976.json",
+        "report": "https://prelved.app/v1/products/3719976/report",
+        "similar": "https://prelved.app/v1/products/3719976/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -1524,7 +1524,7 @@
       "category": {
         "categoryId": 361,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=361"
+          "products": "https://prelved.app/v1/products?category=361"
         },
         "name": "Reisegep\u00e4ck"
       },
@@ -1537,8 +1537,8 @@
         "topBrand": false,
         "name": "Stratic",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/18372/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=18372"
+          "followers": "https://prelved.app/v1/brands/18372/followers",
+          "products": "https://prelved.app/v1/products?brand=18372"
         },
         "brandId": 18372
       },
@@ -1573,13 +1573,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3806064/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3806064/comments",
+        "like": "https://prelved.app/v1/products/3806064/like",
+        "thread": "https://prelved.app/v1/threads/3806064/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/glam-walk-wedges-in-tuerkis/3806064.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3806064/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3806064.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3806064/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3806064/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3806064/comments/preview",
+        "base": "https://prelved.app/v1/products/3806064.json",
+        "report": "https://prelved.app/v1/products/3806064/report",
+        "similar": "https://prelved.app/v1/products/3806064/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -1630,7 +1630,7 @@
       "category": {
         "categoryId": 432,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=432"
+          "products": "https://prelved.app/v1/products?category=432"
         },
         "name": "High Heels"
       },
@@ -1667,13 +1667,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3759166/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3759166/comments",
+        "like": "https://prelved.app/v1/products/3759166/like",
+        "thread": "https://prelved.app/v1/threads/3759166/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/asos-strickcardigan/3759166.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3759166/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3759166.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3759166/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3759166/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3759166/comments/preview",
+        "base": "https://prelved.app/v1/products/3759166.json",
+        "report": "https://prelved.app/v1/products/3759166/report",
+        "similar": "https://prelved.app/v1/products/3759166/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -1712,7 +1712,7 @@
       "category": {
         "categoryId": 540,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=540"
+          "products": "https://prelved.app/v1/products?category=540"
         },
         "name": "Cardigans"
       },
@@ -1724,8 +1724,8 @@
         "topBrand": true,
         "name": "Asos",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/62/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=62"
+          "followers": "https://prelved.app/v1/brands/62/followers",
+          "products": "https://prelved.app/v1/products?brand=62"
         },
         "brandId": 62
       },
@@ -1760,13 +1760,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3793926/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3793926/comments",
+        "like": "https://prelved.app/v1/products/3793926/like",
+        "thread": "https://prelved.app/v1/threads/3793926/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/bluse-bunt/3793926.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3793926/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3793926.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3793926/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3793926/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3793926/comments/preview",
+        "base": "https://prelved.app/v1/products/3793926.json",
+        "report": "https://prelved.app/v1/products/3793926/report",
+        "similar": "https://prelved.app/v1/products/3793926/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -1803,7 +1803,7 @@
       "category": {
         "categoryId": 217,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=217"
+          "products": "https://prelved.app/v1/products?category=217"
         },
         "name": "Hemd-Blusen"
       },
@@ -1815,8 +1815,8 @@
         "topBrand": true,
         "name": "Primark",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/57/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=57"
+          "followers": "https://prelved.app/v1/brands/57/followers",
+          "products": "https://prelved.app/v1/products?brand=57"
         },
         "brandId": 57
       },
@@ -1855,13 +1855,13 @@
         "frontend": {
           "object": true
         },
-        "like": "https://api.maedchenflohmarkt.de/v1/products/3794090/like",
-        "thread": "https://api.maedchenflohmarkt.de/v1/threads/3794090/comments",
+        "like": "https://prelved.app/v1/products/3794090/like",
+        "thread": "https://prelved.app/v1/threads/3794090/comments",
         "websiteUrl": "https://www.maedchenflohmarkt.de/bluse-blau-weiss/3794090.html",
-        "threadPreview": "https://api.maedchenflohmarkt.de/v1/threads/3794090/comments/preview",
-        "base": "https://api.maedchenflohmarkt.de/v1/products/3794090.json",
-        "report": "https://api.maedchenflohmarkt.de/v1/products/3794090/report",
-        "similar": "https://api.maedchenflohmarkt.de/v1/products/3794090/similar"
+        "threadPreview": "https://prelved.app/v1/threads/3794090/comments/preview",
+        "base": "https://prelved.app/v1/products/3794090.json",
+        "report": "https://prelved.app/v1/products/3794090/report",
+        "similar": "https://prelved.app/v1/products/3794090/similar"
       },
       "originalInvoice": false,
       "concierge": false,
@@ -1899,7 +1899,7 @@
       "category": {
         "categoryId": 218,
         "links": {
-          "products": "https://api.maedchenflohmarkt.de/v1/products?category=218"
+          "products": "https://prelved.app/v1/products?category=218"
         },
         "name": "Kurzarm-Blusen"
       },
@@ -1911,8 +1911,8 @@
         "topBrand": true,
         "name": "Forever 21",
         "links": {
-          "followers": "https://api.maedchenflohmarkt.de/v1/brands/70/followers",
-          "products": "https://api.maedchenflohmarkt.de/v1/products?brand=70"
+          "followers": "https://prelved.app/v1/brands/70/followers",
+          "products": "https://prelved.app/v1/products?brand=70"
         },
         "brandId": 70
       },
