@@ -1,0 +1,55 @@
+<h1><a id="Mdchenflohmarkt_Android_Remote_Case_0"></a>Mädchenflohmarkt Android Remote Case.</h1>
+<h3><a id="Impress_us_with_product_viewer_app_2"></a>Impress us with product viewer app!</h3>
+<p>We’d like to ask you to implement a little Android app that allows showing information about some items from our service. The app should support devices with API 19 or newer and supports landscape and portrait orientations. The app should have 2 screens:</p>
+<ul>
+<li>Product list. This screen displays list with products with short product’ overview like name, price and concierge/not concierge item. For concierge items use red text and black for regular items. On user’ tap should be opened next screen with more detailed information about the selected product.</li>
+<li>Product page. This screen should display at least one product image, name, description, brand, category, price, shipping cost and “open in browser” button. Also, this screen should display username and rounded user photo.</li>
+</ul>
+<h3><a id="The_app_algorithm_8"></a>The app algorithm.</h3>
+<p>In each app start it should load root model. By path <code>links.products</code> you could find array with links to products feeds. Please, use the first link in array if it available. By this link you could find a dictionary with many properties, where:<br>
+<code>links.next</code> – link to next product page. Please, implement infinitive loading. Could be nil (it means that loaded all elements).<br>
+<code>products</code> – array with products. Could be empty.</p>
+<p>Product model has many values, you could use any values but some links could return 404 error. The most interesting fields for this project:<br>
+<code>links.base</code> – string. link to full product information. A model by this link has user data.<br>
+<code>links.websiteUrl</code> – string. link for “open in browser”. Should open the website in embedded browser or in external.<br>
+<code>concierge</code> – bool value. Required use alternative text color for product description.<br>
+<code>name</code> – string. Product name.<br>
+<code>description</code> – string. Product description.<br>
+<code>brand.name</code> – string. Brand name.<br>
+<code>category.name</code> – string. Category name.<br>
+<code>price</code> – number. Product price in EURO.<br>
+<code>priceShipping</code> – number. Product shipping cost in EURO.<br>
+<code>images</code> – an array of image object. Each image object has 3 important fields:<br>
+<code>width</code> and <code>height</code> – number. original image size. Could be used for calculation image’ aspect ratio.<br>
+<code>an</code> – string. Universal image link. <strong>Important!</strong> You should replace strings <code>_WIDTH_</code> and <code>_HEIGHT_</code> with real required image size. E.g. for link <code>https://mfcdn.de/product/_WIDTH_x_HEIGHT_/tunika-bluse-h-m-cf96a9.jpeg</code> should be used <code>https://mfcdn.de/product/260x195/tunika-bluse-h-m-cf96a9.jpeg</code>.<br>
+Also full product model has <code>user</code> model. This model has<br>
+<code>username</code> – string. Visible username<br>
+<code>photo</code> – string. Link to profile image. Always square. Link could be to an internal resource with <code>_WIDTH_x_HEIGHT_</code> or to external resource, e.g. facebook. This value could be nil.</p>
+<h3><a id="Api_30"></a>Api</h3>
+<ul>
+<li>
+<p>root model.<br>
+The root model with all information required for the app work. It has an array of possible feeds.<br>
+<code>https://prelved.app/v1/root.json</code> In test project always use this url.</p>
+</li>
+<li>
+<p>products feed.<br>
+Feed with products and other information, like pagination and other.<br>
+<code>https://prelved.app/v1/:feedId.json</code><br>
+Example data <a href="https://prelved.app/v1/products.json">https://prelved.app/v1/products.json</a></p>
+</li>
+<li>
+<p>Full product model.<br>
+Product model with user information.<br>
+<code>https://prelved.app/v1/products/:productId.json</code><br>
+Example data <a href="https://prelved.app/v1/products/3806090.json">https://prelved.app/v1/products/3806090.json</a></p>
+</li>
+</ul>
+<h3><a id="Some_option_tasks_46"></a>Some option tasks.</h3>
+<p>They are not required, but it would be nice if you could find some time to do it:</p>
+<ul>
+<li>Add product image to the product list.</li>
+<li>Use grid layout in product’s list.</li>
+<li>Show all available images in product detail page.</li>
+<li>Display any extra useful information product details.</li>
+</ul>
