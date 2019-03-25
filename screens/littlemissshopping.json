@@ -1,0 +1,47 @@
+{
+  "userId": 321132,
+  "type": "email",
+  "username": "littlemissshopping",
+  "photo": "https:\/\/mfcdn.de\/user\/_WIDTH_x_HEIGHT_:z\/321132-43014.jpeg",
+  "photoIsDefault": false,
+  "cover": "https:\/\/www.maedchenflohmarkt.de\/bundles\/mdchnwebsite\/img\/closet\/cover-3.jpg?v=20122018",
+  "aboutMe": "Ich verkaufe nur original Produkte!:) mein Kleiderzimmer wird gerade umgestaltet, folgt mir bei Instagram :)",
+  "ratings": {
+    "seller": {
+      "total": 34,
+      "positive": 34,
+      "article": 4.77,
+      "communication": 4.8,
+      "shippingTime": 4.86,
+      "shipping": 4.91
+    },
+    "buyer": {
+      "total": 1,
+      "positive": 1
+    }
+  },
+  "status": {
+    "followingYou": false,
+    "followedByYou": false,
+    "ownProfile": false
+  },
+  "statistics": {
+    "products": 27,
+    "followers": 268,
+    "following": 2,
+    "likes": 0
+  },
+  "links": {
+    "base": "https:\/\/prelved.app\/screens\/littlemissshopping.json",
+    "likes": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/321132\/likes",
+    "closet": "https:\/\/prelved.app\/screens\/littlemissshoppingProducts.json",
+    "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132\/followers",
+    "following": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132\/following",
+    "ratings": "https:\/\/prelved.app\/screens\/rating.json",
+    "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/321132\/littlemissshopping",
+    "frontend": {
+      "object": true,
+      "closet": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/321132"
+    }
+  }
+}

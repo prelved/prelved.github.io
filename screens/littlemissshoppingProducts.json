@@ -1,0 +1,787 @@
+{
+  "products": [
+    {
+      "productId": 5338192,
+      "productVariationId": 5338192,
+      "date": "2019-03-25T10:52:59+01:00",
+      "name": "Original Golden Goose Midstar Sneaker Gr.36",
+      "description": "Original Golden Goose Midstar Sneaker Gr. 36\nTop Zustand \nNP\u20ac 349\nDer Vintage Look ist vom Designer so gew\u00fcnscht! Es handelt sich nicht um Gebrauchsspuren, bitte beachten \n\nMit Box, Pass und Schuhs\u00e4ckchen",
+      "price": 115,
+      "category": {
+        "categoryId": 678,
+        "name": "Schn\u00fcrsneaker",
+        "links": {
+          "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?category=678"
+        }
+      },
+      "brand": {
+        "brandId": 2822,
+        "name": "Golden Goose",
+        "topBrand": false,
+        "status": {
+          "followedByYou": false
+        },
+        "links": {
+          "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?brand=2822",
+          "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/brands\/2822\/followers"
+        }
+      },
+      "colors": [
+        {
+          "colorId": 14,
+          "color": "000000",
+          "name": "schwarz"
+        }
+      ],
+      "size": {
+        "sizeId": 4,
+        "name": "36"
+      },
+      "concierge": false,
+      "condition": {
+        "conditionId": 5,
+        "name": "Hervorragend",
+        "description": "Wenige Male getragen, befindet sich in einem einwandfreien, fast neuwertigen Zustand."
+      },
+      "likes": 0,
+      "priceShipping": 4.9,
+      "originalInvoice": false,
+      "available": true,
+      "shippingOption": 1337,
+      "images": [
+        {
+          "name": "original-golden-goose-midstar-sneaker-gr-36-ac5984.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-golden-goose-midstar-sneaker-gr-36-ac5984.jpeg"
+        },
+        {
+          "name": "original-golden-goose-midstar-sneaker-gr-36-f1f44d.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-golden-goose-midstar-sneaker-gr-36-f1f44d.jpeg"
+        },
+        {
+          "name": "original-golden-goose-midstar-sneaker-gr-36-240a1d.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-golden-goose-midstar-sneaker-gr-36-240a1d.jpeg"
+        },
+        {
+          "name": "original-golden-goose-midstar-sneaker-gr-36-3f0734.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-golden-goose-midstar-sneaker-gr-36-3f0734.jpeg"
+        },
+        {
+          "name": "original-golden-goose-midstar-sneaker-gr-36-9d0022.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-golden-goose-midstar-sneaker-gr-36-9d0022.jpeg"
+        }
+      ],
+      "user": {
+        "userId": 321132,
+        "type": "email",
+        "username": "littlemissshopping",
+        "photo": "https:\/\/mfcdn.de\/user\/_WIDTH_x_HEIGHT_:z\/321132-43014.jpeg",
+        "photoIsDefault": false,
+        "cover": "https:\/\/www.maedchenflohmarkt.de\/bundles\/mdchnwebsite\/img\/closet\/cover-3.jpg?v=20122018",
+        "aboutMe": "Ich verkaufe nur original Produkte!:) mein Kleiderzimmer wird gerade umgestaltet, folgt mir bei Instagram :)",
+        "ratings": {
+          "seller": {
+            "total": 64,
+            "positive": 63,
+            "article": 4.77,
+            "communication": 4.8,
+            "shippingTime": 4.86,
+            "shipping": 4.91
+          },
+          "buyer": {
+            "total": 1,
+            "positive": 1
+          }
+        },
+        "status": {
+          "followingYou": false,
+          "followedByYou": false,
+          "ownProfile": false
+        },
+        "statistics": {
+          "products": 27,
+          "followers": 268,
+          "following": 2,
+          "likes": 0
+        },
+        "links": {
+          "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132",
+          "likes": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/321132\/likes",
+          "closet": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/321132\/closet",
+          "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132\/followers",
+          "following": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132\/following",
+          "ratings": "https:\/\/api.maedchenflohmarkt.de\/v1\/ratings?user=321132",
+          "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/321132\/littlemissshopping",
+          "frontend": {
+            "object": true,
+            "closet": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/321132"
+          }
+        }
+      },
+      "payment": [
+        {
+          "type": "paypal"
+        },
+        {
+          "type": "bank_transfer"
+        }
+      ],
+      "status": {
+        "liked": false,
+        "inShoppingbag": false,
+        "ownProduct": false
+      },
+      "links": {
+        "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5338192",
+        "report": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5338192\/report",
+        "visit": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5338192\/visits",
+        "similar": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5338192\/similar",
+        "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/produkt\/5338192.html",
+        "like": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5338192\/like",
+        "threadPreview": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/5338192\/comments\/preview",
+        "thread": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/5338192\/comments",
+        "frontend": {
+          "object": true
+        }
+      }
+    },
+    {
+      "productId": 5335766,
+      "productVariationId": 5335766,
+      "date": "2019-03-24T19:53:58+01:00",
+      "name": "Original Anya Hindmarch Shopper",
+      "description": "Anya Hindmarch Smiley Featherweight Ebury Leather Shopper in Schwarz\n\nMit Pass Rechnung und Staubbeutel\nH\u00f6he: ca. 31 cm\nBreite: ca. 41 cm\nTiefe: ca. 13 cm\n\nGuter Zustand von innen leichte Gebrauchsspuren, die sich leider nicht vermeiden lassen \nVon au\u00dfen neuwertig \n\nNP : \u20ac 1150",
+      "price": 465,
+      "category": {
+        "categoryId": 355,
+        "name": "Totes",
+        "links": {
+          "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?category=355"
+        }
+      },
+      "brand": {
+        "brandId": 1734,
+        "name": "Anya hindmarch",
+        "topBrand": false,
+        "status": {
+          "followedByYou": false
+        },
+        "links": {
+          "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?brand=1734",
+          "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/brands\/1734\/followers"
+        }
+      },
+      "colors": [
+        {
+          "colorId": 14,
+          "color": "000000",
+          "name": "schwarz"
+        }
+      ],
+      "size": {
+        "sizeId": 9,
+        "name": "One Size"
+      },
+      "concierge": false,
+      "condition": {
+        "conditionId": 3,
+        "name": "Gut",
+        "description": "Getragen, weist aber minimale Gebrauchsspuren auf, z. B. an der Schuhsohle, einzelne F\u00e4den."
+      },
+      "likes": 0,
+      "material": {
+        "materialId": 12,
+        "name": "Leder"
+      },
+      "priceRetail": 1150,
+      "priceShipping": 4.9,
+      "originalInvoice": true,
+      "available": true,
+      "shippingOption": 1337,
+      "images": [
+        {
+          "name": "original-anya-hindmarch-shopper-c5d34e.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-anya-hindmarch-shopper-c5d34e.jpeg"
+        },
+        {
+          "name": "original-anya-hindmarch-shopper-675276.jpeg",
+          "width": 2392,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-anya-hindmarch-shopper-675276.jpeg"
+        },
+        {
+          "name": "original-anya-hindmarch-shopper-3462bd.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-anya-hindmarch-shopper-3462bd.jpeg"
+        },
+        {
+          "name": "original-anya-hindmarch-shopper-2a644f.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-anya-hindmarch-shopper-2a644f.jpeg"
+        },
+        {
+          "name": "original-anya-hindmarch-shopper-b10fd9.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-anya-hindmarch-shopper-b10fd9.jpeg"
+        }
+      ],
+      "user": {
+        "userId": 321132,
+        "type": "email",
+        "username": "littlemissshopping",
+        "photo": "https:\/\/mfcdn.de\/user\/_WIDTH_x_HEIGHT_:z\/321132-43014.jpeg",
+        "photoIsDefault": false,
+        "cover": "https:\/\/www.maedchenflohmarkt.de\/bundles\/mdchnwebsite\/img\/closet\/cover-3.jpg?v=20122018",
+        "aboutMe": "Ich verkaufe nur original Produkte!:) mein Kleiderzimmer wird gerade umgestaltet, folgt mir bei Instagram :)",
+        "ratings": {
+          "seller": {
+            "total": 64,
+            "positive": 63,
+            "article": 4.77,
+            "communication": 4.8,
+            "shippingTime": 4.86,
+            "shipping": 4.91
+          },
+          "buyer": {
+            "total": 1,
+            "positive": 1
+          }
+        },
+        "status": {
+          "followingYou": false,
+          "followedByYou": false,
+          "ownProfile": false
+        },
+        "statistics": {
+          "products": 27,
+          "followers": 268,
+          "following": 2,
+          "likes": 0
+        },
+        "links": {
+          "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132",
+          "likes": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/321132\/likes",
+          "closet": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/321132\/closet",
+          "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132\/followers",
+          "following": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132\/following",
+          "ratings": "https:\/\/api.maedchenflohmarkt.de\/v1\/ratings?user=321132",
+          "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/321132\/littlemissshopping",
+          "frontend": {
+            "object": true,
+            "closet": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/321132"
+          }
+        }
+      },
+      "payment": [
+        {
+          "type": "paypal"
+        },
+        {
+          "type": "bank_transfer"
+        }
+      ],
+      "status": {
+        "liked": false,
+        "inShoppingbag": false,
+        "ownProduct": false
+      },
+      "links": {
+        "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5335766",
+        "report": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5335766\/report",
+        "visit": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5335766\/visits",
+        "similar": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5335766\/similar",
+        "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/produkt\/5335766.html",
+        "like": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5335766\/like",
+        "threadPreview": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/5335766\/comments\/preview",
+        "thread": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/5335766\/comments",
+        "frontend": {
+          "object": true
+        }
+      }
+    },
+    {
+      "productId": 5287472,
+      "productVariationId": 5287472,
+      "date": "2019-03-24T17:32:56+01:00",
+      "name": "Original Prada Trenchcoat",
+      "description": "Original Prada Trenchcoat\nGekauft bei Prada in D\u00fcsseldorf\nGuter Zustand\n\nL\u00e4nge ca. 84,5 cm\nAchsel zu Achsel ca. 44,5 cm\nItalienische Gr\u00f6\u00dfe 44\nDeutsche Gr\u00f6\u00dfe 38\n\nMit G\u00fcrtel und Druckkn\u00f6pfen",
+      "price": 99,
+      "category": {
+        "categoryId": 211,
+        "name": "Trenchcoats",
+        "links": {
+          "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?category=211"
+        }
+      },
+      "brand": {
+        "brandId": 134,
+        "name": "Prada",
+        "topBrand": true,
+        "status": {
+          "followedByYou": false
+        },
+        "links": {
+          "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?brand=134",
+          "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/brands\/134\/followers"
+        }
+      },
+      "colors": [
+        {
+          "colorId": 82,
+          "color": "f5f5dc",
+          "name": "hellbeige"
+        }
+      ],
+      "size": {
+        "sizeId": 5,
+        "name": "38"
+      },
+      "concierge": false,
+      "condition": {
+        "conditionId": 3,
+        "name": "Gut",
+        "description": "Getragen, weist aber minimale Gebrauchsspuren auf, z. B. an der Schuhsohle, einzelne F\u00e4den."
+      },
+      "likes": 0,
+      "priceShipping": 4.9,
+      "originalInvoice": false,
+      "available": true,
+      "shippingOption": 1337,
+      "images": [
+        {
+          "name": "original-prada-trenchcoat-420916.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-prada-trenchcoat-420916.jpeg"
+        },
+        {
+          "name": "original-prada-trenchcoat-2ee492.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-prada-trenchcoat-2ee492.jpeg"
+        },
+        {
+          "name": "original-prada-trenchcoat-ffaacc.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-prada-trenchcoat-ffaacc.jpeg"
+        },
+        {
+          "name": "original-prada-trenchcoat-9ac3f8.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-prada-trenchcoat-9ac3f8.jpeg"
+        },
+        {
+          "name": "original-prada-trenchcoat-7825e9.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-prada-trenchcoat-7825e9.jpeg"
+        }
+      ],
+      "user": {
+        "userId": 321132,
+        "type": "email",
+        "username": "littlemissshopping",
+        "photo": "https:\/\/mfcdn.de\/user\/_WIDTH_x_HEIGHT_:z\/321132-43014.jpeg",
+        "photoIsDefault": false,
+        "cover": "https:\/\/www.maedchenflohmarkt.de\/bundles\/mdchnwebsite\/img\/closet\/cover-3.jpg?v=20122018",
+        "aboutMe": "Ich verkaufe nur original Produkte!:) mein Kleiderzimmer wird gerade umgestaltet, folgt mir bei Instagram :)",
+        "ratings": {
+          "seller": {
+            "total": 64,
+            "positive": 63,
+            "article": 4.77,
+            "communication": 4.8,
+            "shippingTime": 4.86,
+            "shipping": 4.91
+          },
+          "buyer": {
+            "total": 1,
+            "positive": 1
+          }
+        },
+        "status": {
+          "followingYou": false,
+          "followedByYou": false,
+          "ownProfile": false
+        },
+        "statistics": {
+          "products": 27,
+          "followers": 268,
+          "following": 2,
+          "likes": 0
+        },
+        "links": {
+          "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132",
+          "likes": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/321132\/likes",
+          "closet": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/321132\/closet",
+          "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132\/followers",
+          "following": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132\/following",
+          "ratings": "https:\/\/api.maedchenflohmarkt.de\/v1\/ratings?user=321132",
+          "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/321132\/littlemissshopping",
+          "frontend": {
+            "object": true,
+            "closet": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/321132"
+          }
+        }
+      },
+      "payment": [
+        {
+          "type": "paypal"
+        },
+        {
+          "type": "bank_transfer"
+        }
+      ],
+      "status": {
+        "liked": false,
+        "inShoppingbag": false,
+        "ownProduct": false
+      },
+      "links": {
+        "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5287472",
+        "report": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5287472\/report",
+        "visit": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5287472\/visits",
+        "similar": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5287472\/similar",
+        "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/produkt\/5287472.html",
+        "like": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5287472\/like",
+        "threadPreview": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/5287472\/comments\/preview",
+        "thread": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/5287472\/comments",
+        "frontend": {
+          "object": true
+        }
+      }
+    },
+    {
+      "productId": 5288716,
+      "productVariationId": 5288716,
+      "date": "2019-03-18T07:10:05+01:00",
+      "name": "Original Dior Friendship Bracelet",
+      "description": "Original Dior Friendship Bracelet mit Box und Rechnungskopie\nVersand nur versichert\nTop Zustand",
+      "price": 185,
+      "category": {
+        "categoryId": 755,
+        "name": "Freundschaftsb\u00e4nder",
+        "links": {
+          "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?category=755"
+        }
+      },
+      "brand": {
+        "brandId": 17198,
+        "name": "Christian Dior",
+        "topBrand": false,
+        "status": {
+          "followedByYou": false
+        },
+        "links": {
+          "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?brand=17198",
+          "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/brands\/17198\/followers"
+        }
+      },
+      "colors": [
+        {
+          "colorId": 8,
+          "color": "06174f",
+          "name": "dunkelblau"
+        }
+      ],
+      "size": {
+        "sizeId": 9,
+        "name": "One Size"
+      },
+      "concierge": false,
+      "condition": {
+        "conditionId": 5,
+        "name": "Hervorragend",
+        "description": "Wenige Male getragen, befindet sich in einem einwandfreien, fast neuwertigen Zustand."
+      },
+      "likes": 3,
+      "priceShipping": 4.9,
+      "originalInvoice": true,
+      "available": true,
+      "shippingOption": 1337,
+      "images": [
+        {
+          "name": "original-dior-friendship-bracelet-abfdf1.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-dior-friendship-bracelet-abfdf1.jpeg"
+        },
+        {
+          "name": "original-dior-friendship-bracelet-b71eb0.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-dior-friendship-bracelet-b71eb0.jpeg"
+        },
+        {
+          "name": "original-dior-friendship-bracelet-e0fb7c.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-dior-friendship-bracelet-e0fb7c.jpeg"
+        },
+        {
+          "name": "original-dior-friendship-bracelet-099245.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-dior-friendship-bracelet-099245.jpeg"
+        }
+      ],
+      "user": {
+        "userId": 321132,
+        "type": "email",
+        "username": "littlemissshopping",
+        "photo": "https:\/\/mfcdn.de\/user\/_WIDTH_x_HEIGHT_:z\/321132-43014.jpeg",
+        "photoIsDefault": false,
+        "cover": "https:\/\/www.maedchenflohmarkt.de\/bundles\/mdchnwebsite\/img\/closet\/cover-3.jpg?v=20122018",
+        "aboutMe": "Ich verkaufe nur original Produkte!:) mein Kleiderzimmer wird gerade umgestaltet, folgt mir bei Instagram :)",
+        "ratings": {
+          "seller": {
+            "total": 64,
+            "positive": 63,
+            "article": 4.77,
+            "communication": 4.8,
+            "shippingTime": 4.86,
+            "shipping": 4.91
+          },
+          "buyer": {
+            "total": 1,
+            "positive": 1
+          }
+        },
+        "status": {
+          "followingYou": false,
+          "followedByYou": false,
+          "ownProfile": false
+        },
+        "statistics": {
+          "products": 27,
+          "followers": 268,
+          "following": 2,
+          "likes": 0
+        },
+        "links": {
+          "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132",
+          "likes": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/321132\/likes",
+          "closet": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/321132\/closet",
+          "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132\/followers",
+          "following": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132\/following",
+          "ratings": "https:\/\/api.maedchenflohmarkt.de\/v1\/ratings?user=321132",
+          "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/321132\/littlemissshopping",
+          "frontend": {
+            "object": true,
+            "closet": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/321132"
+          }
+        }
+      },
+      "payment": [
+        {
+          "type": "paypal"
+        },
+        {
+          "type": "bank_transfer"
+        }
+      ],
+      "status": {
+        "liked": false,
+        "inShoppingbag": false,
+        "ownProduct": false
+      },
+      "links": {
+        "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5288716",
+        "report": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5288716\/report",
+        "visit": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5288716\/visits",
+        "similar": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5288716\/similar",
+        "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/produkt\/5288716.html",
+        "like": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5288716\/like",
+        "threadPreview": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/5288716\/comments\/preview",
+        "thread": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/5288716\/comments",
+        "frontend": {
+          "object": true
+        }
+      }
+    },
+    {
+      "productId": 5141700,
+      "productVariationId": 5141700,
+      "date": "2019-03-16T13:01:42+01:00",
+      "name": "Original Stuart Weitzman Highland Overknee Boots Gr 37",
+      "description": "Stuart Weitzman Highland Overknee Boots Gr. 37\nneuwertig (2x getragen) mit Rechnung, Schuhs\u00e4ckchen und Box\nDie Absatzh\u00f6he betr\u00e4gt ca. 90 mm\n\nDer Stiefel f\u00e4llt gr\u00f6ssengerecht aus\n\nEin absoluter It- Stiefel",
+      "price": 349,
+      "category": {
+        "categoryId": 463,
+        "name": "Overknees",
+        "links": {
+          "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?category=463"
+        }
+      },
+      "brand": {
+        "brandId": 200,
+        "name": "Stuart weitzman",
+        "topBrand": false,
+        "status": {
+          "followedByYou": false
+        },
+        "links": {
+          "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?brand=200",
+          "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/brands\/200\/followers"
+        }
+      },
+      "colors": [
+        {
+          "colorId": 14,
+          "color": "000000",
+          "name": "schwarz"
+        }
+      ],
+      "size": {
+        "sizeId": 13,
+        "name": "37"
+      },
+      "concierge": false,
+      "condition": {
+        "conditionId": 5,
+        "name": "Hervorragend",
+        "description": "Wenige Male getragen, befindet sich in einem einwandfreien, fast neuwertigen Zustand."
+      },
+      "likes": 0,
+      "priceRetail": 899,
+      "priceShipping": 4.9,
+      "originalInvoice": true,
+      "available": true,
+      "shippingOption": 1337,
+      "images": [
+        {
+          "name": "original-stuart-weitzman-highland-overknee-boots-gr-37-3cfa54.jpeg",
+          "width": 1124,
+          "height": 1123,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-stuart-weitzman-highland-overknee-boots-gr-37-3cfa54.jpeg"
+        },
+        {
+          "name": "original-stuart-weitzman-highland-overknee-boots-gr-37-b605b8.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-stuart-weitzman-highland-overknee-boots-gr-37-b605b8.jpeg"
+        },
+        {
+          "name": "original-stuart-weitzman-highland-overknee-boots-gr-37-b2cdd9.jpeg",
+          "width": 2600,
+          "height": 1950,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-stuart-weitzman-highland-overknee-boots-gr-37-b2cdd9.jpeg"
+        },
+        {
+          "name": "original-stuart-weitzman-highland-overknee-boots-gr-37-d05f39.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-stuart-weitzman-highland-overknee-boots-gr-37-d05f39.jpeg"
+        },
+        {
+          "name": "original-stuart-weitzman-highland-overknee-boots-gr-37-f30f2a.jpeg",
+          "width": 1950,
+          "height": 2600,
+          "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/original-stuart-weitzman-highland-overknee-boots-gr-37-f30f2a.jpeg"
+        }
+      ],
+      "user": {
+        "userId": 321132,
+        "type": "email",
+        "username": "littlemissshopping",
+        "photo": "https:\/\/mfcdn.de\/user\/_WIDTH_x_HEIGHT_:z\/321132-43014.jpeg",
+        "photoIsDefault": false,
+        "cover": "https:\/\/www.maedchenflohmarkt.de\/bundles\/mdchnwebsite\/img\/closet\/cover-3.jpg?v=20122018",
+        "aboutMe": "Ich verkaufe nur original Produkte!:) mein Kleiderzimmer wird gerade umgestaltet, folgt mir bei Instagram :)",
+        "ratings": {
+          "seller": {
+            "total": 64,
+            "positive": 63,
+            "article": 4.77,
+            "communication": 4.8,
+            "shippingTime": 4.86,
+            "shipping": 4.91
+          },
+          "buyer": {
+            "total": 1,
+            "positive": 1
+          }
+        },
+        "status": {
+          "followingYou": false,
+          "followedByYou": false,
+          "ownProfile": false
+        },
+        "statistics": {
+          "products": 27,
+          "followers": 268,
+          "following": 2,
+          "likes": 0
+        },
+        "links": {
+          "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132",
+          "likes": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/321132\/likes",
+          "closet": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/321132\/closet",
+          "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132\/followers",
+          "following": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/321132\/following",
+          "ratings": "https:\/\/api.maedchenflohmarkt.de\/v1\/ratings?user=321132",
+          "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/321132\/littlemissshopping",
+          "frontend": {
+            "object": true,
+            "closet": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/321132"
+          }
+        }
+      },
+      "payment": [
+        {
+          "type": "paypal"
+        },
+        {
+          "type": "bank_transfer"
+        }
+      ],
+      "status": {
+        "liked": false,
+        "inShoppingbag": false,
+        "ownProduct": false
+      },
+      "links": {
+        "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5141700",
+        "report": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5141700\/report",
+        "visit": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5141700\/visits",
+        "similar": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5141700\/similar",
+        "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/produkt\/5141700.html",
+        "like": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/5141700\/like",
+        "threadPreview": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/5141700\/comments\/preview",
+        "thread": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/5141700\/comments",
+        "frontend": {
+          "object": true
+        }
+      }
+    }
+  ],
+  "title": "littlemissshopping",
+  "sort": "-date",
+  "parameters": {
+    "sorting": "-date"
+  },
+  "limit": 5,
+  "offset": 0,
+  "total": 27,
+  "links": {
+    "base": "https:\/\/prelved.app\/screens\/littlemissshoppingProducts.json",
+    "next": null,
+    "facets": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/321132\/closet?facets=1&sort=-date"
+  }
+}
