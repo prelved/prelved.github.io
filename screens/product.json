@@ -1,3 +1,4 @@
+
 {
   "productId": 175480,
   "productVariationId": 175480,
@@ -145,7 +146,7 @@
     "ownProduct": false
   },
   "links": {
-    "base": "https://prelved.app/screens/product.json",
+    "base": "https:\/\/prelved.app\/screens\/product.json",
     "report": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/175480\/report",
     "visit": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/175480\/visits",
     "similar": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/175480\/similar",

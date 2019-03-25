@@ -5138,7 +5138,7 @@
   "offset": 0,
   "total": 29,
   "links": {
-    "base": "https://prelved.app/screens/mariaProduct.json",
+    "base": "https:\/\/prelved.app\/screens\/mariaProduct.json",
     "facets": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/7\/closet?facets=1&sort=-date"
   }
 }

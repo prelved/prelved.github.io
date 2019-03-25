@@ -8251,7 +8251,7 @@
   "offset": 0,
   "total": 63,
   "links": {
-    "base": "https://prelved.app/screens/list.json",
+    "base": "https:\/\/prelved.app\/screens\/list.json",
     "next": null,
     "facets": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/musthaves?facets=1&sort=-best"
   }

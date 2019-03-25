@@ -10,7 +10,7 @@
   "ratings": {
     "seller": {
       "total": 180,
-      "positive": 179,
+      "positive": 180,
       "article": 4.9,
       "communication": 4.96,
       "shippingTime": 4.95,
@@ -33,9 +33,9 @@
     "likes": 3443
   },
   "links": {
-    "base": "https://prelved.app/screens/maria.json",
+    "base": "https:\/\/prelved.app\/screens\/maria.json",
     "likes": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/7\/likes",
-    "closet": "https://prelved.app/screens/mariaProduct.json",
+    "closet": "https:\/\/prelved.app\/screens\/mariaProduct.json",
     "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/7\/followers",
     "following": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/7\/following",
     "ratings": "https:\/\/api.maedchenflohmarkt.de\/v1\/ratings?user=7",
