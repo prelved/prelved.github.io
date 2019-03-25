@@ -1,0 +1,48 @@
+{
+  "userId": 7,
+  "type": "facebook",
+  "username": "Maria",
+  "photo": "https:\/\/graph.facebook.com\/v2.2\/1029425043\/picture?width=_WIDTH_&height=_HEIGHT_",
+  "photoIsDefault": false,
+  "cover": "https:\/\/www.maedchenflohmarkt.de\/bundles\/mdchnwebsite\/img\/closet\/cover-3.jpg?v=20122018",
+  "aboutMe": "Gr\u00fcnderin von M\u00e4dchenflohmarkt. Business Woman. Fashion Addict. World Traveller.",
+  "www": "http:\/\/instagram.com\/mariaspilka",
+  "ratings": {
+    "seller": {
+      "total": 180,
+      "positive": 179,
+      "article": 4.9,
+      "communication": 4.96,
+      "shippingTime": 4.95,
+      "shipping": 4.95
+    },
+    "buyer": {
+      "total": 82,
+      "positive": 82
+    }
+  },
+  "status": {
+    "followingYou": false,
+    "followedByYou": false,
+    "ownProfile": false
+  },
+  "statistics": {
+    "products": 29,
+    "followers": 5278,
+    "following": 791,
+    "likes": 3443
+  },
+  "links": {
+    "base": "https://prelved.app/screens/maria.json",
+    "likes": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/7\/likes",
+    "closet": "https://prelved.app/screens/mariaProduct.json",
+    "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/7\/followers",
+    "following": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/7\/following",
+    "ratings": "https:\/\/api.maedchenflohmarkt.de\/v1\/ratings?user=7",
+    "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/7\/maria",
+    "frontend": {
+      "object": true,
+      "closet": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/7"
+    }
+  }
+}
