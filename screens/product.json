@@ -1,110 +1,92 @@
-
 {
-  "productId": 175480,
-  "productVariationId": 175480,
-  "date": "2017-12-11T07:17:35+01:00",
-  "name": "Acne Hydro Suede Boots Wildleder",
-  "description": "Wundersch\u00f6ne Plateau-Stiefeletten von Acne! \r\nHelles Wildleder, extravaganter Absatz mit Cut-Out.\r\nGr\u00f6\u00dfe 40\r\nhaben ein paar kleine Tragespuren.",
-  "price": 59,
+  "productId": 3778644,
+  "productVariationId": 3778644,
+  "date": "2019-03-22T00:28:56+01:00",
+  "name": "LOVE MOSCHINO BAG",
+  "description": "- ist sowohl crossbody als auch unter der Schulter tragbar  \n- goldene Hardware \n- alles wichtige passt hinein \n- vorne ein extra Fach + ein dazugeh\u00f6riges abnehmbaresT\u00e4schchen in Gold\n- Kette aus goldenem Metall\n- braunes Innenleben mit \u201eLove Moschino\u201c Aufdruck + silberne Hardware \nMa\u00dfe ca. H: 7 cm, B: 15cm, T: 4 cm\n- Schutzbeutel & Etiketten sind vorhanden",
+  "price": 70,
   "category": {
-    "categoryId": 425,
-    "name": "Plateau-Stiefeletten",
+    "categoryId": 356,
+    "name": "Umh\u00e4ngetaschen",
     "links": {
-      "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?category=425"
+      "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?category=356"
     }
   },
   "brand": {
-    "brandId": 153,
-    "name": "Acne",
-    "topBrand": true,
+    "brandId": 3912,
+    "name": "Love Moschino",
+    "topBrand": false,
     "status": {
       "followedByYou": false
     },
     "links": {
-      "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?brand=153",
-      "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/brands\/153\/followers"
+      "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?brand=3912",
+      "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/brands\/3912\/followers"
     }
   },
   "colors": [
     {
-      "colorId": 56,
-      "color": "b5b5b6",
-      "name": "silberfarben"
+      "colorId": 55,
+      "color": "e3dc97",
+      "name": "goldfarben"
     },
     {
-      "colorId": 59,
-      "color": "fff2d1",
-      "name": "creme"
+      "colorId": 82,
+      "color": "f5f5dc",
+      "name": "hellbeige"
     }
   ],
   "size": {
-    "sizeId": 6,
-    "name": "40"
+    "sizeId": 9,
+    "name": "One Size"
   },
   "concierge": false,
   "condition": {
-    "conditionId": 3,
-    "name": "Gut",
-    "description": "Getragen, weist aber minimale Gebrauchsspuren auf, z. B. an der Schuhsohle, einzelne F\u00e4den."
+    "conditionId": 4,
+    "name": "Mit Sch\u00f6nheitsfehlern",
+    "description": "Mehrfach getragen, weist kleine Gebrauchsspuren auf, z. B. kleine Kratzer oder Flecken."
   },
-  "likes": 161,
+  "likes": 54,
+  "priceRetail": 150,
   "priceShipping": 4.9,
   "originalInvoice": false,
   "available": true,
   "shippingOption": 1337,
   "images": [
     {
-      "name": "acne-hydro-suede-boots-wildleder-62577f.jpeg",
-      "width": 1949,
+      "name": "love-moschino-bag-76867e.jpeg",
+      "width": 1950,
       "height": 2600,
-      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/acne-hydro-suede-boots-wildleder-62577f.jpeg"
+      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/love-moschino-bag-76867e.jpeg"
     },
     {
-      "name": "acne-hydro-suede-boots-wildleder-0e28bf.jpeg",
-      "width": 1949,
+      "name": "love-moschino-bag-eab1cc.jpeg",
+      "width": 1950,
       "height": 2600,
-      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/acne-hydro-suede-boots-wildleder-0e28bf.jpeg"
+      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/love-moschino-bag-eab1cc.jpeg"
     },
     {
-      "name": "acne-hydro-suede-boots-wildleder-d80f7d.jpeg",
-      "width": 1949,
+      "name": "love-moschino-bag-2f39e4.jpeg",
+      "width": 1950,
       "height": 2600,
-      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/acne-hydro-suede-boots-wildleder-d80f7d.jpeg"
-    },
-    {
-      "name": "acne-hydro-suede-boots-wildleder-e89f2c.jpeg",
-      "width": 1949,
-      "height": 2600,
-      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/acne-hydro-suede-boots-wildleder-e89f2c.jpeg"
-    },
-    {
-      "name": "acne-hydro-suede-boots-wildleder-9d3b62.jpeg",
-      "width": 1949,
-      "height": 2600,
-      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/acne-hydro-suede-boots-wildleder-9d3b62.jpeg"
+      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/love-moschino-bag-2f39e4.jpeg"
     }
   ],
   "user": {
-    "userId": 51548,
-    "type": "facebook",
-    "username": "nala.su",
-    "photo": "https:\/\/graph.facebook.com\/v2.2\/718634565\/picture?width=_WIDTH_&height=_HEIGHT_",
-    "photoIsDefault": false,
-    "cover": "https:\/\/www.maedchenflohmarkt.de\/bundles\/mdchnwebsite\/img\/closet\/cover-4.jpg?v=20122018",
-    "aboutMe": "Instagram: nalasu",
-    "www": "http:\/\/instagram.com\/nalasu",
+    "userId": 1487900,
+    "type": "email",
+    "username": "alwaysLinni",
+    "photo": "https:\/\/www.maedchenflohmarkt.de\/bundles\/mdchnwebsite\/img\/closet\/profile-1.jpg",
+    "photoIsDefault": true,
+    "cover": "https:\/\/www.maedchenflohmarkt.de\/bundles\/mdchnwebsite\/img\/closet\/cover-1.jpg?v=20122018",
     "ratings": {
       "seller": {
-        "total": 861,
-        "positive": 856,
-        "article": 4.96,
-        "communication": 4.96,
-        "shippingTime": 4.96,
-        "shipping": 4.93
-      },
-      "buyer": {
-        "total": 1,
-        "positive": 1
+        "total": 9,
+        "positive": 9,
+        "article": 5,
+        "communication": 5,
+        "shippingTime": 5,
+        "shipping": 5
       }
     },
     "status": {
@@ -113,22 +95,22 @@
       "ownProfile": false
     },
     "statistics": {
-      "products": 464,
-      "followers": 1546,
-      "following": 0,
-      "likes": 0
+      "products": 7,
+      "followers": 28,
+      "following": 19,
+      "likes": 1
     },
     "links": {
-      "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/51548",
-      "likes": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/51548\/likes",
-      "closet": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/51548\/closet",
-      "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/51548\/followers",
-      "following": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/51548\/following",
-      "ratings": "https:\/\/api.maedchenflohmarkt.de\/v1\/ratings?user=51548",
-      "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/51548\/nala-su",
+      "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/1487900",
+      "likes": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/1487900\/likes",
+      "closet": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/1487900\/closet",
+      "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/1487900\/followers",
+      "following": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/1487900\/following",
+      "ratings": "https:\/\/api.maedchenflohmarkt.de\/v1\/ratings?user=1487900",
+      "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/1487900\/alwayslinni",
       "frontend": {
         "object": true,
-        "closet": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/51548"
+        "closet": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/1487900"
       }
     }
   },
@@ -146,14 +128,14 @@
     "ownProduct": false
   },
   "links": {
-    "base": "https:\/\/prelved.app\/screens\/product.json",
-    "report": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/175480\/report",
-    "visit": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/175480\/visits",
-    "similar": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/175480\/similar",
-    "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/produkt\/175480.html",
-    "like": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/175480\/like",
-    "threadPreview": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/175480\/comments\/preview",
-    "thread": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/175480\/comments",
+    "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/1487900",
+    "report": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/3778644\/report",
+    "visit": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/3778644\/visits",
+    "similar": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/3778644\/similar",
+    "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/produkt\/3778644.html",
+    "like": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/3778644\/like",
+    "threadPreview": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/3778644\/comments\/preview",
+    "thread": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/3778644\/comments",
     "frontend": {
       "object": true
     }
