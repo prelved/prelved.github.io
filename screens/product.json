@@ -1,39 +1,34 @@
 {
-  "productId": 3778644,
-  "productVariationId": 3778644,
-  "date": "2019-03-22T00:28:56+01:00",
-  "name": "LOVE MOSCHINO BAG",
-  "description": "- ist sowohl crossbody als auch unter der Schulter tragbar  \n- goldene Hardware \n- alles wichtige passt hinein \n- vorne ein extra Fach + ein dazugeh\u00f6riges abnehmbaresT\u00e4schchen in Gold\n- Kette aus goldenem Metall\n- braunes Innenleben mit \u201eLove Moschino\u201c Aufdruck + silberne Hardware \nMa\u00dfe ca. H: 7 cm, B: 15cm, T: 4 cm\n- Schutzbeutel & Etiketten sind vorhanden",
-  "price": 70,
+  "productId": 3544532,
+  "productVariationId": 3544532,
+  "date": "2019-03-29T17:01:09+01:00",
+  "name": "Coccinelle Minitasche \u201eArlettis Suede Crossbody Bag Rose\u201c apricot",
+  "description": "Coccinelle Tasche aus der neuen Collection, hellbeiges Wildleder, mehrere F\u00e4cher, goldfarbene Hardware, Henkel, Umh\u00e4ngeriemen, sehr guter Zustand, selten getragen. NP: ca. 350\u20ac",
+  "price": 150,
   "category": {
-    "categoryId": 356,
-    "name": "Umh\u00e4ngetaschen",
+    "categoryId": 747,
+    "name": "Minitaschen",
     "links": {
-      "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?category=356"
+      "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?category=747"
     }
   },
   "brand": {
-    "brandId": 3912,
-    "name": "Love Moschino",
+    "brandId": 239,
+    "name": "Coccinelle",
     "topBrand": false,
     "status": {
       "followedByYou": false
     },
     "links": {
-      "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?brand=3912",
-      "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/brands\/3912\/followers"
+      "products": "https:\/\/api.maedchenflohmarkt.de\/v1\/products?brand=239",
+      "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/brands\/239\/followers"
     }
   },
   "colors": [
     {
-      "colorId": 55,
-      "color": "e3dc97",
-      "name": "goldfarben"
-    },
-    {
-      "colorId": 82,
-      "color": "f5f5dc",
-      "name": "hellbeige"
+      "colorId": 92,
+      "color": "f79f66",
+      "name": "apricot"
     }
   ],
   "size": {
@@ -42,51 +37,68 @@
   },
   "concierge": false,
   "condition": {
-    "conditionId": 4,
-    "name": "Mit Sch\u00f6nheitsfehlern",
-    "description": "Mehrfach getragen, weist kleine Gebrauchsspuren auf, z. B. kleine Kratzer oder Flecken."
+    "conditionId": 2,
+    "name": "Neu ohne Etikett",
+    "description": "Nur anprobiert, nie getragen. Das Etikett wurde jedoch abgenommen."
   },
-  "likes": 54,
-  "priceRetail": 150,
+  "likes": 65,
   "priceShipping": 4.9,
   "originalInvoice": false,
   "available": true,
   "shippingOption": 1337,
   "images": [
     {
-      "name": "love-moschino-bag-76867e.jpeg",
-      "width": 1950,
-      "height": 2600,
-      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/love-moschino-bag-76867e.jpeg"
+      "name": "coccinelle-minitasche-arlettis-suede-crossbody-bag-rose-apricot-36b486.jpeg",
+      "width": 1728,
+      "height": 2592,
+      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/coccinelle-minitasche-arlettis-suede-crossbody-bag-rose-apricot-36b486.jpeg"
     },
     {
-      "name": "love-moschino-bag-eab1cc.jpeg",
-      "width": 1950,
-      "height": 2600,
-      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/love-moschino-bag-eab1cc.jpeg"
+      "name": "coccinelle-minitasche-arlettis-suede-crossbody-bag-rose-apricot-ec47f7.jpeg",
+      "width": 1728,
+      "height": 2592,
+      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/coccinelle-minitasche-arlettis-suede-crossbody-bag-rose-apricot-ec47f7.jpeg"
     },
     {
-      "name": "love-moschino-bag-2f39e4.jpeg",
-      "width": 1950,
-      "height": 2600,
-      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/love-moschino-bag-2f39e4.jpeg"
+      "name": "coccinelle-minitasche-arlettis-suede-crossbody-bag-rose-apricot-fb8bb2.jpeg",
+      "width": 1728,
+      "height": 2592,
+      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/coccinelle-minitasche-arlettis-suede-crossbody-bag-rose-apricot-fb8bb2.jpeg"
+    },
+    {
+      "name": "coccinelle-minitasche-arlettis-suede-crossbody-bag-rose-apricot-2b446a.jpeg",
+      "width": 1728,
+      "height": 2592,
+      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/coccinelle-minitasche-arlettis-suede-crossbody-bag-rose-apricot-2b446a.jpeg"
+    },
+    {
+      "name": "coccinelle-minitasche-arlettis-suede-crossbody-bag-rose-apricot-a3af98.jpeg",
+      "width": 1728,
+      "height": 2592,
+      "url": "https:\/\/mfcdn.de\/product\/_WIDTH_x_HEIGHT_\/coccinelle-minitasche-arlettis-suede-crossbody-bag-rose-apricot-a3af98.jpeg"
     }
   ],
   "user": {
-    "userId": 1487900,
-    "type": "email",
-    "username": "alwaysLinni",
-    "photo": "https:\/\/www.maedchenflohmarkt.de\/bundles\/mdchnwebsite\/img\/closet\/profile-1.jpg",
-    "photoIsDefault": true,
+    "userId": 73685,
+    "type": "facebook",
+    "username": "Ssunny",
+    "photo": "https:\/\/graph.facebook.com\/v2.2\/100000486463075\/picture?width=_WIDTH_&height=_HEIGHT_",
+    "photoIsDefault": false,
     "cover": "https:\/\/www.maedchenflohmarkt.de\/bundles\/mdchnwebsite\/img\/closet\/cover-1.jpg?v=20122018",
+    "aboutMe": "Fashion Passionist",
+    "www": "http:\/\/instagram.com\/ssunnysmiles",
     "ratings": {
       "seller": {
-        "total": 9,
-        "positive": 9,
-        "article": 5,
+        "total": 22,
+        "positive": 22,
+        "article": 4.81,
         "communication": 5,
-        "shippingTime": 5,
-        "shipping": 5
+        "shippingTime": 4.88,
+        "shipping": 4.88
+      },
+      "buyer": {
+        "total": 115,
+        "positive": 115
       }
     },
     "status": {
@@ -95,22 +107,22 @@
       "ownProfile": false
     },
     "statistics": {
-      "products": 7,
-      "followers": 28,
-      "following": 19,
-      "likes": 1
+      "products": 30,
+      "followers": 67,
+      "following": 16,
+      "likes": 203
     },
     "links": {
-      "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/1487900",
-      "likes": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/1487900\/likes",
-      "closet": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/1487900\/closet",
-      "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/1487900\/followers",
-      "following": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/1487900\/following",
-      "ratings": "https:\/\/api.maedchenflohmarkt.de\/v1\/ratings?user=1487900",
-      "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/1487900\/alwayslinni",
+      "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/73685",
+      "likes": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/73685\/likes",
+      "closet": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/73685\/closet",
+      "followers": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/73685\/followers",
+      "following": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/73685\/following",
+      "ratings": "https:\/\/api.maedchenflohmarkt.de\/v1\/ratings?user=73685",
+      "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/73685\/ssunny",
       "frontend": {
         "object": true,
-        "closet": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/1487900"
+        "closet": "https:\/\/www.maedchenflohmarkt.de\/kleiderschrank\/73685"
       }
     }
   },
@@ -128,14 +140,14 @@
     "ownProduct": false
   },
   "links": {
-    "base": "https:\/\/api.maedchenflohmarkt.de\/v1\/users\/1487900",
-    "report": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/3778644\/report",
-    "visit": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/3778644\/visits",
-    "similar": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/3778644\/similar",
-    "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/produkt\/3778644.html",
-    "like": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/3778644\/like",
-    "threadPreview": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/3778644\/comments\/preview",
-    "thread": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/3778644\/comments",
+    "base": "https:\/\/prelved.app\/screens\/product.json",
+    "report": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/3544532\/report",
+    "visit": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/3544532\/visits",
+    "similar": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/3544532\/similar",
+    "websiteUrl": "https:\/\/www.maedchenflohmarkt.de\/produkt\/3544532.html",
+    "like": "https:\/\/api.maedchenflohmarkt.de\/v1\/products\/3544532\/like",
+    "threadPreview": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/3544532\/comments\/preview",
+    "thread": "https:\/\/api.maedchenflohmarkt.de\/v1\/threads\/3544532\/comments",
     "frontend": {
       "object": true
     }
