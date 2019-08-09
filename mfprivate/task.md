@@ -1,40 +1,37 @@
-# Mädchenflohmarkt Android Remote Case
+# Mädchenflohmarkt Android Coding Challenge
 
-## Impress us with product viewer app!
+## Impress us with a product viewer app!
 
-We’d like to ask you to implement a little Android app that allows showing information about some items from our service. The app should support devices with API 19 or newer and supports landscape and portrait orientations. The app should have 2 screens:
+We’d like to ask you to implement a little Android app that allows showing information about some items from our service. The app should support devices with API 19 or newer and support landscape and portrait orientation. The app should have 2 screens:
 
-- Product list. This screen displays a list of products with short product’ overview like name, price and concierge/not concierge item. For concierge items use red text and black for regular items. On user' tap should be opened next screen with more detailed information about the selected product.
-- Product page. This screen should display at least one product image, name, description, brand, category, price, shipping cost and “open in browser” button. Also, this screen should display the username and rounded user photo.
+- The **product listing** displays a list of products with short product overview like name, price and some kind of indication if the product is concierge or not (see data model description). For concierge items use red text and black for regular items. On user tap the next screen should be opened with more detailed information about the selected product.
+- The **product page** displays at least one product image, name, description, brand, category, price, shipping cost and “open in browser” button. Also, this screen should display the user's username and photo (shown in circular shape).
 
-Please, use this repository for storing your source. We would like to see git project history.
+Please use this repository to store your code. Commit and push often to separate logical steps. We would like to see in the git history how you proceeded.
 
 ## The app algorithm
 
-In each app start, it should load the root model. By path `links.products` you could find array with links to products feeds. Please, use the first link in the array if it is available. By this link you could find a dictionary with many properties, where:
-
-- `links.next` – link to next product page. Please, implement infinitive loading. Could be nil (it means that loaded all elements).
+On each app start, it should load the root model. In the root model at path `links.products` you can find an array with links to products feeds. Please, use the first link in the array if it is available. By fetching this link you can get a json object with many properties, where:
+- `links.next` – link to next product page. Could be null (this means that there is no next page). Please implement infinitive loading based on this.
 - `products` – array with products. Could be empty.
 
-Product model has many values, you could use any values but some links could return 404 error. The most interesting fields for this project:
-
-- `links.base` – string. link to full product information. A model by this link has user data.
+The product model has many values. You can use any values but some links could return a 404 error. The most interesting fields for this project:
+- `links.base` – string. link to full product information. (A product model fetched fron this link has user data.)
 - `links.websiteUrl` – string. link for "open in browser". Should open the website in an embedded browser or in external.
-- `concierge` – bool value. Required use alternative text color for product description.
+- `concierge` – bool value. Required to use alternative text color.
 - `name` – string. Product name.
 - `description` – string. Product description.
 - `brand.name` – string. Brand name.
 - `category.name` – string. Category name.
 - `price` – number. Product price in EURO.
 - `priceShipping` – number. Product shipping cost in EURO.
-- `images` – an array of the image object. Each image object has 3 important fields:
-- `width` and `height` – number. original image size. Could be used for calculation image’ aspect ratio.
-- `url` – string. Universal image link. **Important!** You should replace strings `_WIDTH_` and `_HEIGHT_` with real required image size. E.g. for link `https://mfcdn.de/product/_WIDTH_x_HEIGHT_/tunika-bluse-h-m-cf96a9.jpeg` should be used `https://mfcdn.de/product/260x195/tunika-bluse-h-m-cf96a9.jpeg`.
+- `images` – an array of the image objects. Each image object has 3 important fields:
+  - `width` and `height` – number. original image size. Could be used to calculate the image’s aspect ratio.
+  - `url` – string. Universal image link. **Important!** You should replace strings `_WIDTH_` and `_HEIGHT_` with real required image size. E.g. `https://mfcdn.de/product/_WIDTH_x_HEIGHT_/tunika-bluse-h-m-cf96a9.jpeg` must be transformed to something like `https://mfcdn.de/product/260x195/tunika-bluse-h-m-cf96a9.jpeg`.
 
-Also full product model has `user` model. This model has:
-
+A full product model has a `user` property. This model has:
 - `username` – string. Visible username
-- `photo` – string. Link to profile image. Always square. Link could be to an internal resource with `_WIDTH_x_HEIGHT_` or to an external resource, e.g. facebook. This value could be nil.
+- `photo` – string. Link to profile image. Always square. Link could be to an internal resource with `_WIDTH_x_HEIGHT_` or to an external resource, e.g. facebook. This value could be null.
 
 ## Api
 
@@ -48,6 +45,7 @@ The root model with all information required for the app work. It has an array o
 Feed with products and other information, like pagination and others.
 `https://prelved.app/v1/:feedId.json`
 Example data https://prelved.app/v1/products.json
+Hint: don't hardcode this. Take it from the responses you get from the backend.
 
 ### Full product model
 
