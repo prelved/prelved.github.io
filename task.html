@@ -1,55 +1,102 @@
-<h1><a id="Mdchenflohmarkt_Android_Remote_Case_0"></a>Mädchenflohmarkt Android Remote Case.</h1>
-<h3><a id="Impress_us_with_product_viewer_app_2"></a>Impress us with product viewer app!</h3>
+
+<h1 id="mädchenflohmarkt-android-remote-case">Mädchenflohmarkt Android Remote Case</h1>
+<h2 id="impress-us-with-product-viewer-app">Impress us with product viewer app!</h2>
 <p>We’d like to ask you to implement a little Android app that allows showing information about some items from our service. The app should support devices with API 19 or newer and supports landscape and portrait orientations. The app should have 2 screens:</p>
 <ul>
-<li>Product list. This screen displays list with products with short product’ overview like name, price and concierge/not concierge item. For concierge items use red text and black for regular items. On user’ tap should be opened next screen with more detailed information about the selected product.</li>
-<li>Product page. This screen should display at least one product image, name, description, brand, category, price, shipping cost and “open in browser” button. Also, this screen should display username and rounded user photo.</li>
+<li>
+<p>Product list. This screen displays a list of products with short product’ overview like name, price and concierge/not concierge item. For concierge items use red text and black for regular items. On user’ tap should be opened next screen with more detailed information about the selected product.</p>
+</li>
+<li>
+<p>Product page. This screen should display at least one product image, name, description, brand, category, price, shipping cost and “open in browser” button. Also, this screen should display the username and rounded user photo.</p>
+</li>
 </ul>
-<h3><a id="The_app_algorithm_8"></a>The app algorithm.</h3>
-<p>In each app start it should load root model. By path <code>links.products</code> you could find array with links to products feeds. Please, use the first link in array if it available. By this link you could find a dictionary with many properties, where:<br>
-<code>links.next</code> – link to next product page. Please, implement infinitive loading. Could be nil (it means that loaded all elements).<br>
-<code>products</code> – array with products. Could be empty.</p>
-<p>Product model has many values, you could use any values but some links could return 404 error. The most interesting fields for this project:<br>
-<code>links.base</code> – string. link to full product information. A model by this link has user data.<br>
-<code>links.websiteUrl</code> – string. link for “open in browser”. Should open the website in embedded browser or in external.<br>
-<code>concierge</code> – bool value. Required use alternative text color for product description.<br>
-<code>name</code> – string. Product name.<br>
-<code>description</code> – string. Product description.<br>
-<code>brand.name</code> – string. Brand name.<br>
-<code>category.name</code> – string. Category name.<br>
-<code>price</code> – number. Product price in EURO.<br>
-<code>priceShipping</code> – number. Product shipping cost in EURO.<br>
-<code>images</code> – an array of image object. Each image object has 3 important fields:<br>
-<code>width</code> and <code>height</code> – number. original image size. Could be used for calculation image’ aspect ratio.<br>
-<code>an</code> – string. Universal image link. <strong>Important!</strong> You should replace strings <code>_WIDTH_</code> and <code>_HEIGHT_</code> with real required image size. E.g. for link <code>https://mfcdn.de/product/_WIDTH_x_HEIGHT_/tunika-bluse-h-m-cf96a9.jpeg</code> should be used <code>https://mfcdn.de/product/260x195/tunika-bluse-h-m-cf96a9.jpeg</code>.<br>
-Also full product model has <code>user</code> model. This model has<br>
-<code>username</code> – string. Visible username<br>
-<code>photo</code> – string. Link to profile image. Always square. Link could be to an internal resource with <code>_WIDTH_x_HEIGHT_</code> or to external resource, e.g. facebook. This value could be nil.</p>
-<h3><a id="Api_30"></a>Api</h3>
+<p>Please, use this repository for storing your source. We would like to see git project history.</p>
+<h2 id="the-app-algorithm">The app algorithm</h2>
+<p>In each app start, it should load the root model. By path <code>links.products</code> you could find array with links to products feeds. Please, use the first link in the array if it is available. By this link you could find a dictionary with many properties, where:</p>
 <ul>
 <li>
-<p>root model.<br>
-The root model with all information required for the app work. It has an array of possible feeds.<br>
-<code>https://prelved.app/v1/root.json</code> In test project always use this url.</p>
+<p><code>links.next</code> – link to next product page. Please, implement infinitive loading. Could be nil (it means that loaded all elements).</p>
 </li>
 <li>
-<p>products feed.<br>
-Feed with products and other information, like pagination and other.<br>
-<code>https://prelved.app/v1/:feedId.json</code><br>
-Example data <a href="https://prelved.app/v1/products.json">https://prelved.app/v1/products.json</a></p>
-</li>
-<li>
-<p>Full product model.<br>
-Product model with user information.<br>
-<code>https://prelved.app/v1/products/:productId.json</code><br>
-Example data <a href="https://prelved.app/v1/products/3806090.json">https://prelved.app/v1/products/3806090.json</a></p>
+<p><code>products</code> – array with products. Could be empty.</p>
 </li>
 </ul>
-<h3><a id="Some_option_tasks_46"></a>Some option tasks.</h3>
+<p>Product model has many values, you could use any values but some links could return 404 error. The most interesting fields for this project:</p>
+<ul>
+<li>
+<p><code>links.base</code> – string. link to full product information. A model by this link has user data.</p>
+</li>
+<li>
+<p><code>links.websiteUrl</code> – string. link for “open in browser”. Should open the website in an embedded browser or in external.</p>
+</li>
+<li>
+<p><code>concierge</code> – bool value. Required use alternative text color for product description.</p>
+</li>
+<li>
+<p><code>name</code> – string. Product name.</p>
+</li>
+<li>
+<p><code>description</code> – string. Product description.</p>
+</li>
+<li>
+<p><code>brand.name</code> – string. Brand name.</p>
+</li>
+<li>
+<p><code>category.name</code> – string. Category name.</p>
+</li>
+<li>
+<p><code>price</code> – number. Product price in EURO.</p>
+</li>
+<li>
+<p><code>priceShipping</code> – number. Product shipping cost in EURO.</p>
+</li>
+<li>
+<p><code>images</code> – an array of the image object. Each image object has 3 important fields:</p>
+</li>
+<li>
+<p><code>width</code> and <code>height</code> – number. original image size. Could be used for calculation image’ aspect ratio.</p>
+</li>
+<li>
+<p><code>url</code> – string. Universal image link. <strong>Important!</strong> You should replace strings <code>_WIDTH_</code> and <code>_HEIGHT_</code> with real required image size. E.g. for link <code>https://mfcdn.de/product/_WIDTH_x_HEIGHT_/tunika-bluse-h-m-cf96a9.jpeg</code> should be used <code>https://mfcdn.de/product/260x195/tunika-bluse-h-m-cf96a9.jpeg</code>.</p>
+</li>
+</ul>
+<p>Also full product model has <code>user</code> model. This model has:</p>
+<ul>
+<li>
+<p><code>username</code> – string. Visible username</p>
+</li>
+<li>
+<p><code>photo</code> – string. Link to profile image. Always square. Link could be to an internal resource with <code>_WIDTH_x_HEIGHT_</code> or to an external resource, e.g. facebook. This value could be nil.</p>
+</li>
+</ul>
+<h2 id="api">Api</h2>
+<h3 id="root-model">root model</h3>
+<p>The root model with all information required for the app work. It has an array of possible feeds.</p>
+<p><code>https://prelved.app/v1/root.json</code>. Always use this url in the test project.</p>
+<h3 id="products-feed">products feed</h3>
+<p>Feed with products and other information, like pagination and others.</p>
+<p><code>https://prelved.app/v1/:feedId.json</code></p>
+<p>Example data <a href="https://prelved.app/v1/products.json">https://prelved.app/v1/products.json</a></p>
+<h3 id="full-product-model">Full product model</h3>
+<p>Product model with user information.</p>
+<p><code>https://prelved.app/v1/products/:productId.json</code></p>
+<p>Example data <a href="https://prelved.app/v1/products/3806090.json">https://prelved.app/v1/products/3806090.json</a></p>
+<h2 id="some-optional-tasks">Some optional tasks</h2>
 <p>They are not required, but it would be nice if you could find some time to do it:</p>
 <ul>
-<li>Add product image to the product list.</li>
-<li>Use grid layout in product’s list.</li>
-<li>Show all available images in product detail page.</li>
-<li>Display any extra useful information product details.</li>
+<li>
+<p>Add product image to the product list.</p>
+</li>
+<li>
+<p>Use a grid layout in the product’s list.</p>
+</li>
+<li>
+<p>Show all available images in the product detail page.</p>
+</li>
+<li>
+<p>Display any extra useful information product details.</p>
+</li>
 </ul>
+<h2 id="time-limitation">Time limitation</h2>
+<p>You have 2 hours to complete it and send it back to us. Don’t worry if you haven’t had enough time to complete this task. We would like to ask you to spend another 15 minutes and write us an <a href="mailto:andreas@maedchenflohmarkt.de?cc=vasyl@maedchenflohmarkt.de&amp;subject=M%C3%A4dchenflohmarkt%20Android%20Remote%20Case">email</a>. It would be nice if you could describe the difficulties you faced during the implementation, the ideas which you wanted to implement but couldn’t, if you had done, you would have done in a real project. Feel free to write us any feedback and opinions about this test task.</p>
+

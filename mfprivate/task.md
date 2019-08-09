@@ -55,7 +55,7 @@ Product model with user information.
 `https://prelved.app/v1/products/:productId.json`
 Example data https://prelved.app/v1/products/3806090.json
 
-## Some option tasks
+## Some optional tasks
 
 They are not required, but it would be nice if you could find some time to do it:
 
@@ -63,3 +63,7 @@ They are not required, but it would be nice if you could find some time to do it
 - Use a grid layout in the product's list.
 - Show all available images in the product detail page.
 - Display any extra useful information product details.
+
+## Time limitation
+
+You have 2 hours to complete it and send it back to us. Don't worry if you haven't had enough time to complete this task. We would like to ask you to spend another 15 minutes and write us an [email](mailto:andreas@maedchenflohmarkt.de?cc=vasyl@maedchenflohmarkt.de&subject=Mädchenflohmarkt%20Android%20Remote%20Case). It would be nice if you could describe the difficulties you faced during the implementation, the ideas which you wanted to implement but couldn't, if you had done, you would have done in a real project. Feel free to write us any feedback and opinions about this test task.
