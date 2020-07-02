@@ -1,4 +1,8 @@
-{
+{"context": {
+        "category": "CategoryList",
+        "label": "ProductTile",
+        "object": true
+    },
   "ratings": [
     {
       "ratingId": 528710,
